@@ -1,0 +1,124 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// IMAGE
+//
+
+img1                    IMAGE   DISCARDABLE     "未标题-1副本.gif"
+img2                    IMAGE   DISCARDABLE     "hh.gif"
+img3                    IMAGE   DISCARDABLE     "mm.gif"
+img4                    IMAGE   DISCARDABLE     "image2.bin"
+//image5                  IMAGE   DISCARDABLE     "psb[7].jpg"
+//img6                    IMAGE   DISCARDABLE     "CZ50BUYWI_]@EO2A3N6J`$Q.jpg"
+//img7                    IMAGE   DISCARDABLE     "CZ50BUYWI_]@EO2A3N6J`$Q_编辑.gif"
+img8                    IMAGE   DISCARDABLE     "ZBI`%SWX0RHBB7PXKTAA@{M.gif"
+img9                    IMAGE   DISCARDABLE     "未标题-1.gif"
+hua1                    IMAGE   DISCARDABLE     "未标题-2.gif"
+hua3                    IMAGE   DISCARDABLE     "未标题-3.gif"
+hua2                    IMAGE   DISCARDABLE     "未标题-4.gif"
+hua4                    IMAGE   DISCARDABLE     "未标题-5.gif"
+hua6                    IMAGE   DISCARDABLE     "未标题-6.gif"
+hua5                    IMAGE   DISCARDABLE     "未标题-7.gif"
+hua7                    IMAGE   DISCARDABLE     "未标题-9.gif"
+hua8                    IMAGE   DISCARDABLE     "未标题-10.gif"
+aixin                   IMAGE   DISCARDABLE     "未标题-15.gif"
+kongbai                 IMAGE   DISCARDABLE     "未标题-12.gif"
+hua01                   IMAGE   DISCARDABLE     "01.gif"
+hua02                   IMAGE   DISCARDABLE     "02.gif"
+hua03                   IMAGE   DISCARDABLE     "03.gif"
+hua04                   IMAGE   DISCARDABLE     "04.gif"
+hua00                   IMAGE   DISCARDABLE     "bin00001.bin"
+hua05                   IMAGE   DISCARDABLE     "05.gif"
+hua06                   IMAGE   DISCARDABLE     "06.gif"
+hua07                   IMAGE   DISCARDABLE     "07.gif"
+meigui1                 IMAGE   DISCARDABLE     "玫瑰1.gif"
+zise                    IMAGE   DISCARDABLE     "lansehua.gif"
+juhua                   IMAGE   DISCARDABLE     "jihua.gif"
+fenhong                 IMAGE   DISCARDABLE     "zisehua-1.gif"
+IDR_IMAGE2              IMAGE   DISCARDABLE     "81C)3AJ2%L`@NDLAB26MN%V.jpg"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// misic
+//
+
+mu.mp3                  misic   DISCARDABLE     "夏天alex - 不再联系 - 高潮版.mp3"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+//img6                    BITMAP  DISCARDABLE     "CZ50BUYWI_]@EO2A3N6J`$Q.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+1                       ICON    DISCARDABLE     "14.ico"
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
