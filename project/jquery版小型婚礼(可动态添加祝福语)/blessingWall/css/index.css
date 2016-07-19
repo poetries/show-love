@@ -1,0 +1,51 @@
+.box {position: relative; width: 960px; height: 810px; margin: 10px auto; overflow: hidden;}
+.second-box,.five-box,.six-box,.seven-box {display: none;}
+/* 场景一css */
+.first-horn {position: absolute; top: 30px; left: -422px;}
+.first-txt {position: absolute; top: 60px; display: none;}
+.first-txt .txt1 {width: 65px; height: 78px; overflow: hidden;}
+.first-txt .txt2 {width: 0; height: 78px; overflow: hidden;}
+/* 场景二 */
+.second-people {position: absolute; left: -286px;}
+.second-txt {position: absolute; left: 0; top: 383px; display: none;}
+/* 场景三 */
+.three-img {position: absolute; left: -554px;}
+/* 场景四 */
+.fore-img {position: absolute; top: -518px; left: 40px;}
+/* 场景五 */
+.five-img {position: absolute; top: 50px; left: 38px; width: 885px; height: 573px;}
+.five-img img {transform: scale(0.4);}
+.five-img .u-enter {position: absolute; left: 50%; top: 250px; margin-left: -73px; padding: 10px 30px; border-radius: 5px; background: #D05999; font-size: 20px; color: white; cursor: pointer; }
+/* 场景六 */
+.six-box {position: relative; width: 960px; height: 800px; overflow: hidden;}
+.six-box div {position: absolute; width: 100px; height: 100px; background: url("../images/six_center_img.jpg") no-repeat;}
+/* 场景七 */
+.seven-box {position: relative; width: 958px; height: 800px; background: url("../images/seven_bg.jpg") no-repeat top center; border: 1px solid #F4D938; overflow: hidden;}
+.clickMe {position: absolute; left: 0; bottom: 0; width: 229px; height: 233px; cursor: pointer; text-indent: -99999px; background: url("../images/clickMe.jpg") no-repeat; z-index: 9999;}
+.seven-content {position: relative; width: 790px; height: 540px; margin: 20px auto; background: #f67b93; border-radius: 50px;}
+.seven-content div {position: absolute; width: 57px; height: 52px; padding: 15px 5px 5px 10px; background: url("../images/note.png") no-repeat; overflow: hidden; cursor: pointer; z-index: 99;}
+.seven-content div.note-a1 {background-position: 0 0;}
+.seven-content div.note-a2 {background-position: -110px 0;}
+.seven-content div.note-a3 {background-position: -220px 0;}
+.seven-content div.note-a4 {background-position: -327px 0;}
+.seven-content div.note-a5 {background-position: 0 -150px;}
+.seven-content div.note-a6 {background-position: -110px -150px;}
+.seven-content div.note-a7 {background-position: -220px -150px;}
+.seven-content div.note-a8 {background-position: -327px -150px;}
+.seven-content div.note-a9 {background-position: 0 -296px;}
+.seven-content div.note-a10 {background-position: -110px -296px;}
+.seven-content div.note-a11 {background-position: -220px -296px;}
+.seven-content div.note-a12 {background-position: -327px -296px;}
+.seven-content div.note-1 {background-position: -1px -440px; color: #494000;}
+.seven-content div.note-2 {background-position: -110px -440px; color: #561e67;}
+.seven-content div.note-3 {background-position: -220px -440px; color: #07516f;}
+.seven-content div.note-4 {background-position: -329px -440px; color: #652f09;}
+.seven-content div.note-5 {background-position: 0 -550px; color: #6b0f13;}
+.seven-content div.note-6 {background-position: -110px -550px; color: #034914;}
+
+/* 遮罩层 */
+.mask {position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; opacity: 0.4; filter: Alpha(opacity=40); z-index: 9999; display: none;}
+.pop-box {position: fixed; top: -300px; left: 50%; margin-left: -250px; margin-top: -150px; width: 500px; height: 300px; padding: 10px; background: #c52947; border-radius: 10px; z-index: 99999;}
+.pop-box h1 {font-size: 30px; text-align: center; color: white; margin: 5px 0 10px;}
+.pop-box textarea {display: block; width: 440px; height: 140px; padding: 10px; margin: 20px auto; resize: none; font-size: 16px; border-radius: 5px; background: white; color: #691323;  _margin-left: 270px;}
+.pop-box .u-sure {margin: auto; width: 100px; padding: 8px 0; background: #780a1f; border-radius: 3px; text-align: center; font-size: 18px; color: white; font-weight: bold; cursor: pointer;}

@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+	/* 默认值、共用值设置 */
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,b,fieldset,legend,button,input,textarea,th,td,label{
+ margin:0;
+ padding:0;
+}
+body,button,input,select,textarea{
+  font-size:12px;
+  font-family:'Microsoft Yahei',verdana;
+  font-style:normal;
+  font-stretch:normal;
+  font-size-adjust:none;
+  font-variant:normal;
+    height: 25px;
+}
+
+/* remember to define focus styles! */
+:focus{
+  outline:0;
+}
+
+/* :focus 伪类在元素获得焦点时向元素添加特殊的样式。 */
+h1,h2,h3,h4,h5,h6{
+  font-size:100%;
+}
+abbr,acronym{
+  border:0;
+  font-variant:normal;
+}
+address,cite,dfn,em,caption,code,strong,th,var{
+  font-style:normal;
+  font-weight:normal;
+}
+code,kdb,pre,samp{
+ font-family:"Courier New",Courier,monospace;
+}
+ul,ol{
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+}
+fieldset,img{border:0 none;}
+
+.clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix {zoom: 1;}
+/* 向左浮动 */
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+/* 以上全为共用的 */
+
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
